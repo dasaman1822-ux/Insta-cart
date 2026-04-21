@@ -1,19 +1,28 @@
-# Instacart Clone
+# Instacart Data Analysis & Recommendation System
 
 ## Overview
-A full-stack grocery delivery application inspired by Instacart, designed to simulate real-world e-commerce workflows including product browsing, cart management, and order processing.
+This project analyses the Instacart dataset to understand customer purchasing behaviour, product trends, and order patterns. It also explores basic machine learning techniques to derive insights and improve product recommendations.
+
+The project simulates real-world e-commerce data workflows including data preprocessing, analysis, and backend integration.
+
+---
 
 ## Features
-- Product listing and category-based browsing
-- Add-to-cart and checkout functionality
-- Order tracking and management system
-- User authentication (if implemented)
-- Backend APIs for handling transactions
+- Data cleaning and preprocessing of large grocery datasets
+- Exploratory Data Analysis (EDA) on customer orders
+- Product and department-level insights
+- Order pattern analysis and user behaviour tracking
+- Basic recommendation logic based on purchase history
+
+---
 
 ## Tech Stack
-- Frontend: React (if used)
-- Backend: Node.js / Django / Flask
-- Database: MySQL / MongoDB
+- Python
+- Pandas, NumPy
+- Matplotlib / Seaborn
+- Scikit-learn (if used)
+- Flask (if backend API is implemented)
 
-## Purpose
-Built to understand scalable backend systems and real-world e-commerce architecture.
+---
+
+## Project Structure
